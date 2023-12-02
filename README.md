@@ -1,22 +1,16 @@
  👋 Intro 
-- Hi, I’m @erincullison, a current Java bootcamp student at Tech Elevator (September - December 2022).
-- I am here to get familiar with the GitHub tools and community as I prepare for a career in software development!
+- Hi, I’m @erincullison, a fresh dev that's always learning!
 
 💾 My Skills
-  - Java
-    - Current Boot camp student
-    - College credit in Computer Science focused on Java
-  - Python
-    - Basic knowledge
-    - Self-guided learning via Meta online courses
-  - HTML/CSS/JavaScript
-    -   Basic knowledge
-    -   Self-guided learning via Meta & FreeCodeCamp courses
+- Perl
+- SQL
+- Java
+- Python
+- JavaScript
+- HTML/CSS
   
 🧪 My Background 
-- Prior to starting at Tech Elevator, I was working as an Analytical Chemist, performing regulatory testing for the California cannabis industry. 
-- There were parts of my job I loved, especially when it came to automation and improving efficiency. 
-- I realized I could do that in a much bigger way with coding, so I took the plunge and enrolled for a bootcamp!
+- Full-time Perl developer with a background in laboratory sciences. 
 
 
 <!---
