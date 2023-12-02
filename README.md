@@ -1,5 +1,5 @@
  👋 Intro 
-- Hi, I’m @erincullison, a fresh dev that's always learning!
+- Hi, I’m Erin, a fresh dev that's always learning!
 
 💾 Skills
 - Perl
