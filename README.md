@@ -1,7 +1,7 @@
  👋 Intro 
 - Hi, I’m @erincullison, a fresh dev that's always learning!
 
-💾 My Skills
+💾 Skills
 - Perl
 - SQL
 - Java
@@ -9,7 +9,7 @@
 - JavaScript
 - HTML/CSS
   
-🧪 My Background 
+🧪 Career
 - Full-time Perl developer with a background in laboratory sciences. 
 
 
